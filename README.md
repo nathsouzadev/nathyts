@@ -7,7 +7,7 @@
 
 My name name is Nathally Souza.
 
-- 🌱 I’m currently learning PHP, React, Node, Python and Cloud Services.
+- 🌱 Web Developer.
 - 😄 Pronouns: she/her.
 - ⚡ Curiosity: after 10 years i switched from journalism to programming.
 
