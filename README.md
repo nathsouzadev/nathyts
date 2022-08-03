@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/nathsouza/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://twitter.com/nathally_22" target="blank">
+  <a href="https://twitter.com/nathsouzadev" target="blank">
     <img src="https://img.shields.io/twitter/follow/nathally_22?logo=twitter&style=for-the-badge" alt="nathally_22" />
   </a>
 </div>
