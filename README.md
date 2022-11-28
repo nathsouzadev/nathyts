@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/nathsouzadev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nathally_22?logo=twitter&style=for-the-badge" alt="nathally_22" />
+    <img src="https://img.shields.io/twitter/follow/nathsouzadev?logo=twitter&style=for-the-badge" alt="nathsouzadev" />
   </a>
 </div>
 
@@ -20,7 +20,6 @@ My name name is Nathally Souza.
 - 😄 Pronouns: she/her.
 - 💬 Ask me about **JS, TS, React, good pratices, TDD and consultant skills**
 - ⚡ Curiosity: after 10 years i switched from journalism to programming.
-- 🔧 Building a **[Soccer Project](https://github.com/Soccer-Project)** to learning another techs
 
 ### Main techs
 <div style="display: inline_block"><br>
